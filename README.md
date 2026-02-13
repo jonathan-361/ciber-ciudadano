@@ -9,3 +9,11 @@ Contiene en total tres pantallas, siendo estas:
 - _Home_
 
 Cuando el usuario va a iniciar sesión o crear una cuenta necesitará que sea resuelto una suma. Sino logra ponerse correctamente el resultado no dejará al usuario proseguir.
+
+---
+
+**NOTA:** Se necesita un archivos _".env"_ que deberá contener:
+
+```
+VITE_API_URL=http://localhost:3000/api
+```
